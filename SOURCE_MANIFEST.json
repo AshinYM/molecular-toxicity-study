@@ -1,0 +1,12 @@
+[
+  {
+    "source": "2026.10.01/신약후보물질_독성예측_EDA_신용민.ipynb",
+    "target": "01_eda.ipynb",
+    "transform": "outputs/metadata/attachments removed; personal absolute paths replaced"
+  },
+  {
+    "source": "2026.10.02/독성예측_Modeling_Day2_신용민.ipynb",
+    "target": "02_modeling.ipynb",
+    "transform": "outputs/metadata/attachments removed; personal absolute paths replaced"
+  }
+]
