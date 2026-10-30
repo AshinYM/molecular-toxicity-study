@@ -22,3 +22,7 @@ phm_state*/
 model_outputs/
 output/
 outputs/
+
+artifacts/
+data/
+*.log

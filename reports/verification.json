@@ -1,0 +1,23 @@
+{
+  "data_origin": "previously_explored_course_data",
+  "environment": "macOS ARM64 / Python 3.11.15",
+  "unit_and_boundary_tests_passed": 11,
+  "full_training_rows": 8349,
+  "outer_folds": 5,
+  "inner_folds": 3,
+  "model_roundtrip_max_abs_probability_error": 0.0,
+  "prediction_rows": 927,
+  "separate_process_predictions_exact_match": true,
+  "report_notebook_code_cells_executed": true,
+  "notebook_outputs_committed": false,
+  "external_paid_api_calls": 0,
+  "cloud_resources_created": false,
+  "new_independent_test_performed": false,
+  "not_verified": [
+    "AMD64",
+    "Windows",
+    "new independent dataset performance",
+    "deployment and load",
+    "drug safety decision use"
+  ]
+}
